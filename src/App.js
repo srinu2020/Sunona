@@ -3,16 +3,20 @@ import Login from './components/Login';
 import {Route,Switch} from  'react-router-dom';
 import Navbar from './components/Navbar';
 import './App.css';
+import Layout from './components/Layout';
 
  const App=()=>{
    return(<>
-      <Navbar/>
+      
       <div>
         sdhsfdbsfsj
       </div>
     <Switch>
-    <Route path="/signup" component={Signup}/>
-       <Route path="/login" component={Login}/>
+    <Route exact path="/" component={Navbar}/>
+    <Layout>
+    <Route  path="/signup" component={Signup}/>
+    <Route path="/login" component={Login}/>
+    </Layout>
     </Switch>
     
      

@@ -1,4 +1,6 @@
  import React from 'react'
+ import Signup from './Signup'
+ import { Link } from 'react-router-dom'
  
  const Navbar = () => {
    return (
@@ -19,7 +21,10 @@
         </li>
         
         <li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          <Link to="/signup">signup</Link>
+        </li>
+        <li class="nav-item">
+          <Link to="/login">login</Link>
         </li>
       </ul>
       <form class="d-flex">
