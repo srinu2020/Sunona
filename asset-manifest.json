@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Sunona/static/css/main.7c285d87.chunk.css",
-    "main.js": "/Sunona/static/js/main.d239ae67.chunk.js",
-    "main.js.map": "/Sunona/static/js/main.d239ae67.chunk.js.map",
+    "main.js": "/Sunona/static/js/main.d5fd05ef.chunk.js",
+    "main.js.map": "/Sunona/static/js/main.d5fd05ef.chunk.js.map",
     "runtime-main.js": "/Sunona/static/js/runtime-main.592250f7.js",
     "runtime-main.js.map": "/Sunona/static/js/runtime-main.592250f7.js.map",
-    "static/js/2.5a7b3d55.chunk.js": "/Sunona/static/js/2.5a7b3d55.chunk.js",
-    "static/js/2.5a7b3d55.chunk.js.map": "/Sunona/static/js/2.5a7b3d55.chunk.js.map",
+    "static/js/2.c2c7b03d.chunk.js": "/Sunona/static/js/2.c2c7b03d.chunk.js",
+    "static/js/2.c2c7b03d.chunk.js.map": "/Sunona/static/js/2.c2c7b03d.chunk.js.map",
     "static/js/3.aba7cb33.chunk.js": "/Sunona/static/js/3.aba7cb33.chunk.js",
     "static/js/3.aba7cb33.chunk.js.map": "/Sunona/static/js/3.aba7cb33.chunk.js.map",
     "index.html": "/Sunona/index.html",
     "static/css/main.7c285d87.chunk.css.map": "/Sunona/static/css/main.7c285d87.chunk.css.map",
-    "static/js/2.5a7b3d55.chunk.js.LICENSE.txt": "/Sunona/static/js/2.5a7b3d55.chunk.js.LICENSE.txt"
+    "static/js/2.c2c7b03d.chunk.js.LICENSE.txt": "/Sunona/static/js/2.c2c7b03d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.592250f7.js",
-    "static/js/2.5a7b3d55.chunk.js",
+    "static/js/2.c2c7b03d.chunk.js",
     "static/css/main.7c285d87.chunk.css",
-    "static/js/main.d239ae67.chunk.js"
+    "static/js/main.d5fd05ef.chunk.js"
   ]
 }
